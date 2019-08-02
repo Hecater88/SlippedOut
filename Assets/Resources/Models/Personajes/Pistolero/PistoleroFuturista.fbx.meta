@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: f1d561979b5fb0f4f907603b8c1b05fb
+timeCreated: 1521307370
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antebrazo_L
+    100004: Antebrazo_R
+    100006: Anular_F_L
+    100008: Anular_F_L_end
+    100010: Anular_F_R
+    100012: Anular_F_R_end
+    100014: Anular_L
+    100016: Anular_R
+    100018: Armature
+    100020: Brazo_L
+    100022: Brazo_L.009
+    100024: Brazo_L.009_end
+    100026: Brazo_R
+    100028: Brazo_R.009
+    100030: Brazo_R.009_end
+    100032: Cabeza
+    100034: Cabeza_end
+    100036: Corazon_F_L
+    100038: Corazon_F_L_end
+    100040: Corazon_F_R
+    100042: Corazon_F_R_end
+    100044: Corazon_L
+    100046: Corazon_R
+    100048: Cuello
+    100050: Dedos_Pie_L
+    100052: Dedos_Pie_L_end
+    100054: Dedos_Pie_R
+    100056: Dedos_Pie_R_end
+    100058: Empeine_L
+    100060: Empeine_R
+    100062: Indice_F_L
+    100064: Indice_F_L_end
+    100066: Indice_F_R
+    100068: Indice_F_R_end
+    100070: Indice_L
+    100072: Indice_R
+    100074: Mano_L
+    100076: Mano_R
+    100078: Menique_F_L
+    100080: Menique_F_L_end
+    100082: Menique_F_R
+    100084: Menique_F_R_end
+    100086: Menique_L
+    100088: Menique_R
+    100090: Pecho
+    100092: Pecho.001
+    100094: Pierna_L
+    100096: Pierna_R
+    100098: Pistola
+    100100: Pistola_end
+    100102: Pistolera_0
+    100104: Pistolera_0_end
+    100106: Pistolera_1
+    100108: Pistolera_1_end
+    100110: Pistolera_2
+    100112: Pistolera_2_end
+    100114: //RootNode
+    100116: Pole_Codo_L
+    100118: Pole_Codo_L_end
+    100120: Pole_Codo_R
+    100122: Pole_Codo_R_end
+    100124: Pole_Rod_L
+    100126: Pole_Rodi_L
+    100128: Pole_Rodi_L_end
+    100130: Pole_Rodi_R
+    100132: Pole_Rodi_R_end
+    100134: Pulgar_F_L
+    100136: Pulgar_F_L_end
+    100138: Pulgar_F_R
+    100140: Pulgar_F_R_end
+    100142: Pulgar_L
+    100144: Pulgar_R
+    100146: Sphere.001
+    100148: Tibia_L
+    100150: Tibia_L.001
+    100152: Tibia_L.001_end
+    100154: Tibia_R
+    100156: Tibia_R.001
+    100158: Tibia_R.001_end
+    400000: Abdomen
+    400002: Antebrazo_L
+    400004: Antebrazo_R
+    400006: Anular_F_L
+    400008: Anular_F_L_end
+    400010: Anular_F_R
+    400012: Anular_F_R_end
+    400014: Anular_L
+    400016: Anular_R
+    400018: Armature
+    400020: Brazo_L
+    400022: Brazo_L.009
+    400024: Brazo_L.009_end
+    400026: Brazo_R
+    400028: Brazo_R.009
+    400030: Brazo_R.009_end
+    400032: Cabeza
+    400034: Cabeza_end
+    400036: Corazon_F_L
+    400038: Corazon_F_L_end
+    400040: Corazon_F_R
+    400042: Corazon_F_R_end
+    400044: Corazon_L
+    400046: Corazon_R
+    400048: Cuello
+    400050: Dedos_Pie_L
+    400052: Dedos_Pie_L_end
+    400054: Dedos_Pie_R
+    400056: Dedos_Pie_R_end
+    400058: Empeine_L
+    400060: Empeine_R
+    400062: Indice_F_L
+    400064: Indice_F_L_end
+    400066: Indice_F_R
+    400068: Indice_F_R_end
+    400070: Indice_L
+    400072: Indice_R
+    400074: Mano_L
+    400076: Mano_R
+    400078: Menique_F_L
+    400080: Menique_F_L_end
+    400082: Menique_F_R
+    400084: Menique_F_R_end
+    400086: Menique_L
+    400088: Menique_R
+    400090: Pecho
+    400092: Pecho.001
+    400094: Pierna_L
+    400096: Pierna_R
+    400098: Pistola
+    400100: Pistola_end
+    400102: Pistolera_0
+    400104: Pistolera_0_end
+    400106: Pistolera_1
+    400108: Pistolera_1_end
+    400110: Pistolera_2
+    400112: Pistolera_2_end
+    400114: //RootNode
+    400116: Pole_Codo_L
+    400118: Pole_Codo_L_end
+    400120: Pole_Codo_R
+    400122: Pole_Codo_R_end
+    400124: Pole_Rod_L
+    400126: Pole_Rodi_L
+    400128: Pole_Rodi_L_end
+    400130: Pole_Rodi_R
+    400132: Pole_Rodi_R_end
+    400134: Pulgar_F_L
+    400136: Pulgar_F_L_end
+    400138: Pulgar_F_R
+    400140: Pulgar_F_R_end
+    400142: Pulgar_L
+    400144: Pulgar_R
+    400146: Sphere.001
+    400148: Tibia_L
+    400150: Tibia_L.001
+    400152: Tibia_L.001_end
+    400154: Tibia_R
+    400156: Tibia_R.001
+    400158: Tibia_R.001_end
+    4300000: Sphere.001
+    7400000: Armature|Andar
+    7400002: Armature|Ataque
+    7400004: Armature|CogerAlto
+    7400006: Armature|CogerMedio
+    7400008: Armature|Correr
+    7400010: Armature|Desenfudar
+    7400012: Armature|Enfundar
+    7400014: Armature|Gest.Afir.
+    7400016: Armature|Gest.Neg,
+    7400018: Armature|Idle
+    7400020: Armature|Morir
+    7400022: Armature|TakingDMG
+    9500000: //RootNode
+    13700000: Sphere.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chaleco
+    second: {fileID: 2100000, guid: 249f05cfdc943014da6955c1b2237564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandal
+    second: {fileID: 2100000, guid: fef727713162b6549be4aee366b82329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinturones
+    second: {fileID: 2100000, guid: ba71e83ac7ff2f84482e1f45a2480d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Guantes
+    second: {fileID: 2100000, guid: a571f2b094c33f3468301a21f1e6296f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panuelo
+    second: {fileID: 2100000, guid: 5f335161d1216a64db155c649fb05f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pelo
+    second: {fileID: 2100000, guid: 1058b92185ac5c244a7b3cf60bb2f618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piel
+    second: {fileID: 2100000, guid: 0c2991dd1ebb095469ffc9649816b5c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zapato
+    second: {fileID: 2100000, guid: 2cbd71fc1d29459439c0fe481132cc8b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

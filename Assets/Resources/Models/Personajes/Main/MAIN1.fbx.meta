@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 74d81f91df0cff34dbf6261834ff8d53
+timeCreated: 1521308937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: antebrazo_L
+    100002: antebrazo_R
+    100004: Armature
+    100006: brazo_L
+    100008: brazo_R
+    100010: cabeza
+    100012: cabeza_end
+    100014: cadera
+    100016: cadera.001
+    100018: capa1
+    100020: capa1_end
+    100022: capa2
+    100024: capa2_end
+    100026: capa3
+    100028: capa3_end
+    100030: cinturon.004
+    100032: cinturon.004_end
+    100034: Cube.002
+    100036: cuello
+    100038: Cylinder.001
+    100040: f1anu_L
+    100042: f1anu_R
+    100044: f1cora_L
+    100046: f1cora_R
+    100048: f1indi_L
+    100050: f1indi_R
+    100052: "f1me\xF1i_L"
+    100054: "f1me\xF1i_R"
+    100056: f1pulg_L
+    100058: f1pulg_R
+    100060: f2anu_L
+    100062: f2anu_L_end
+    100064: f2anu_R
+    100066: f2anu_R_end
+    100068: f2cora_L
+    100070: f2cora_L_end
+    100072: f2cora_R
+    100074: f2cora_R_end
+    100076: f2indi_L
+    100078: f2indi_L_end
+    100080: f2indi_R
+    100082: f2indi_R_end
+    100084: "f2me\xF1i_L"
+    100086: "f2me\xF1i_L_end"
+    100088: "f2me\xF1i_R"
+    100090: "f2me\xF1i_R_end"
+    100092: f2pulg_L
+    100094: f2pulg_L_end
+    100096: f2pulg_R
+    100098: f2pulg_R_end
+    100100: iKcodo_L
+    100102: iKcodo_L_end
+    100104: ikcodo_R
+    100106: ikcodo_R_end
+    100108: ikrodil_L
+    100110: ikrodil_L_end
+    100112: ikrodil_R
+    100114: ikrodil_R_end
+    100116: //RootNode
+    100118: mano_L
+    100120: mano_R
+    100122: "Movemu\xF1e_L"
+    100124: "Movemu\xF1e_L_end"
+    100126: "Movemu\xF1e_R"
+    100128: "Movemu\xF1e_R_end"
+    100130: pierna_L
+    100132: pierna_L.001
+    100134: pierna_L.002
+    100136: pierna_L.003
+    100138: pierna_L.003_end
+    100140: pierna_L.004
+    100142: pierna_L.004_end
+    100144: pierna_R
+    100146: pierna_R.001
+    100148: pierna_R.002
+    100150: pierna_R.003
+    100152: pierna_R.003_end
+    100154: pierna_R.004
+    100156: pierna_R.004_end
+    100158: Plane
+    100160: tronco
+    400000: antebrazo_L
+    400002: antebrazo_R
+    400004: Armature
+    400006: brazo_L
+    400008: brazo_R
+    400010: cabeza
+    400012: cabeza_end
+    400014: cadera
+    400016: cadera.001
+    400018: capa1
+    400020: capa1_end
+    400022: capa2
+    400024: capa2_end
+    400026: capa3
+    400028: capa3_end
+    400030: cinturon.004
+    400032: cinturon.004_end
+    400034: Cube.002
+    400036: cuello
+    400038: Cylinder.001
+    400040: f1anu_L
+    400042: f1anu_R
+    400044: f1cora_L
+    400046: f1cora_R
+    400048: f1indi_L
+    400050: f1indi_R
+    400052: "f1me\xF1i_L"
+    400054: "f1me\xF1i_R"
+    400056: f1pulg_L
+    400058: f1pulg_R
+    400060: f2anu_L
+    400062: f2anu_L_end
+    400064: f2anu_R
+    400066: f2anu_R_end
+    400068: f2cora_L
+    400070: f2cora_L_end
+    400072: f2cora_R
+    400074: f2cora_R_end
+    400076: f2indi_L
+    400078: f2indi_L_end
+    400080: f2indi_R
+    400082: f2indi_R_end
+    400084: "f2me\xF1i_L"
+    400086: "f2me\xF1i_L_end"
+    400088: "f2me\xF1i_R"
+    400090: "f2me\xF1i_R_end"
+    400092: f2pulg_L
+    400094: f2pulg_L_end
+    400096: f2pulg_R
+    400098: f2pulg_R_end
+    400100: iKcodo_L
+    400102: iKcodo_L_end
+    400104: ikcodo_R
+    400106: ikcodo_R_end
+    400108: ikrodil_L
+    400110: ikrodil_L_end
+    400112: ikrodil_R
+    400114: ikrodil_R_end
+    400116: //RootNode
+    400118: mano_L
+    400120: mano_R
+    400122: "Movemu\xF1e_L"
+    400124: "Movemu\xF1e_L_end"
+    400126: "Movemu\xF1e_R"
+    400128: "Movemu\xF1e_R_end"
+    400130: pierna_L
+    400132: pierna_L.001
+    400134: pierna_L.002
+    400136: pierna_L.003
+    400138: pierna_L.003_end
+    400140: pierna_L.004
+    400142: pierna_L.004_end
+    400144: pierna_R
+    400146: pierna_R.001
+    400148: pierna_R.002
+    400150: pierna_R.003
+    400152: pierna_R.003_end
+    400154: pierna_R.004
+    400156: pierna_R.004_end
+    400158: Plane
+    400160: tronco
+    4300000: Cylinder.001
+    4300002: Plane
+    4300004: Cube.002
+    7400000: Armature|andar
+    7400002: Armature|ataque
+    7400004: Armature|cogermid
+    7400006: Armature|cogerup
+    7400008: Armature|positivemate
+    9500000: //RootNode
+    13700000: Cube.002
+    13700002: Cylinder.001
+    13700004: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8bae5776b768dea4693c6c2c7d7ed1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: ae5ef369375ad0944846c6eed2321e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f8f44fafbcdef1344b11cea43af8617c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 8fb87cf13ee65ae47ab9a3c9a2869c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 48aa79fecfb8ecc4289784960d4e47b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5dcc7314d1900c24cafabbbac67bebad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: cbf3f8c37fd0ed24d805b74f1d43d418
+timeCreated: 1521308147
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BRAZO_L
+    100002: BRAZO_R
+    100004: BrazoL
+    100006: BrazoR
+    100008: CABEZA
+    100010: Cabeza
+    100012: CABEZA_end
+    100014: CADERA
+    100016: Cadera
+    100018: Casco
+    100020: COLUMNA
+    100022: Esqueleto
+    100024: HombroL
+    100026: HombroR
+    100028: MANO_L
+    100030: MANO_L_end
+    100032: MANO_R
+    100034: MANO_R_end
+    100036: ManoL
+    100038: ManoR
+    100040: Movimiento_rueda
+    100042: Movimiento_rueda_end
+    100044: //RootNode
+    100046: RUEDA
+    100048: Rueda
+    100050: RUEDA.001
+    100052: Sphere
+    100054: Tronco
+    400000: BRAZO_L
+    400002: BRAZO_R
+    400004: BrazoL
+    400006: BrazoR
+    400008: CABEZA
+    400010: Cabeza
+    400012: CABEZA_end
+    400014: CADERA
+    400016: Cadera
+    400018: Casco
+    400020: COLUMNA
+    400022: Esqueleto
+    400024: HombroL
+    400026: HombroR
+    400028: MANO_L
+    400030: MANO_L_end
+    400032: MANO_R
+    400034: MANO_R_end
+    400036: ManoL
+    400038: ManoR
+    400040: Movimiento_rueda
+    400042: Movimiento_rueda_end
+    400044: //RootNode
+    400046: RUEDA
+    400048: Rueda
+    400050: RUEDA.001
+    400052: Sphere
+    400054: Tronco
+    2300000: BrazoL
+    2300002: BrazoR
+    2300004: Cabeza
+    2300006: Cadera
+    2300008: Casco
+    2300010: HombroL
+    2300012: HombroR
+    2300014: ManoL
+    2300016: ManoR
+    2300018: Rueda
+    2300020: Sphere
+    2300022: Tronco
+    3300000: BrazoL
+    3300002: BrazoR
+    3300004: Cabeza
+    3300006: Cadera
+    3300008: Casco
+    3300010: HombroL
+    3300012: HombroR
+    3300014: ManoL
+    3300016: ManoR
+    3300018: Rueda
+    3300020: Sphere
+    3300022: Tronco
+    4300000: Sphere
+    4300002: Rueda
+    4300004: Cadera
+    4300006: Tronco
+    4300008: BrazoL
+    4300010: HombroL
+    4300012: ManoL
+    4300014: HombroR
+    4300016: BrazoR
+    4300018: ManoR
+    4300020: Cabeza
+    4300022: Casco
+    7400000: Sphere|SphereAction
+    7400002: Esqueleto|Afirmar
+    7400004: Esqueleto|Atacar
+    7400006: Esqueleto|Coger abajo
+    7400008: Esqueleto|Coger arriba
+    7400010: Esqueleto|Coger medio
+    7400012: Esqueleto|Hablar
+    7400014: Esqueleto|Idle
+    7400016: Esqueleto|Negar
+    7400018: "Esqueleto|Recibir da\xF1o"
+    7400020: Esqueleto|Run
+    7400022: Esqueleto|SphereAction
+    7400024: Esqueleto|Walk
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FACE
+    second: {fileID: 2100000, guid: cebfcc688f330674baff42e65b0538a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREYROBOT
+    second: {fileID: 2100000, guid: 69a713f8a48566742842198aebe13ffe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREYROBOT2
+    second: {fileID: 2100000, guid: bbe1ce375d2f60744b94784952baca0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6fa9404ee5437f044a34bcdb37c1725f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 712a269a774ae03448ee01f6270b9933, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

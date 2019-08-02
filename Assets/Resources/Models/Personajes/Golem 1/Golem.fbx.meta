@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 55e7746eddb104544802127bdf0f24dc
+timeCreated: 1521308359
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Antebrazo_L
+    100002: Antebrazo_R
+    100004: Armature
+    100006: Brazo_L
+    100008: Brazo_R
+    100010: Cabeza
+    100012: Cabeza_end
+    100014: Cadera
+    100016: Capa
+    100018: Capa_end
+    100020: Central
+    100022: Circle.007
+    100024: Circle.012
+    100026: Circle.046
+    100028: Corazon_01_L
+    100030: Corazon_01_R
+    100032: Corazon_02_L
+    100034: Corazon_02_L_end
+    100036: Corazon_02_R
+    100038: Corazon_02_R_end
+    100040: //RootNode
+    100042: Mano_L
+    100044: Mano_R
+    100046: "Me\xF1ique_01_L"
+    100048: "Me\xF1ique_01_R"
+    100050: "Me\xF1ique_02_L"
+    100052: "Me\xF1ique_02_L_end"
+    100054: "Me\xF1ique_02_R"
+    100056: "Me\xF1ique_02_R_end"
+    100058: Pecho
+    100060: Pulgar_01_L
+    100062: Pulgar_01_R
+    100064: Pulgar_02_L
+    100066: Pulgar_02_L_end
+    100068: Pulgar_02_R
+    100070: Pulgar_02_R_end
+    100072: "\xCDndice_01_L"
+    100074: "\xCDndice_01_R"
+    100076: "\xCDndice_02_L"
+    100078: "\xCDndice_02_L_end"
+    100080: "\xCDndice_02_R"
+    100082: "\xCDndice_02_R_end"
+    400000: Antebrazo_L
+    400002: Antebrazo_R
+    400004: Armature
+    400006: Brazo_L
+    400008: Brazo_R
+    400010: Cabeza
+    400012: Cabeza_end
+    400014: Cadera
+    400016: Capa
+    400018: Capa_end
+    400020: Central
+    400022: Circle.007
+    400024: Circle.012
+    400026: Circle.046
+    400028: Corazon_01_L
+    400030: Corazon_01_R
+    400032: Corazon_02_L
+    400034: Corazon_02_L_end
+    400036: Corazon_02_R
+    400038: Corazon_02_R_end
+    400040: //RootNode
+    400042: Mano_L
+    400044: Mano_R
+    400046: "Me\xF1ique_01_L"
+    400048: "Me\xF1ique_01_R"
+    400050: "Me\xF1ique_02_L"
+    400052: "Me\xF1ique_02_L_end"
+    400054: "Me\xF1ique_02_R"
+    400056: "Me\xF1ique_02_R_end"
+    400058: Pecho
+    400060: Pulgar_01_L
+    400062: Pulgar_01_R
+    400064: Pulgar_02_L
+    400066: Pulgar_02_L_end
+    400068: Pulgar_02_R
+    400070: Pulgar_02_R_end
+    400072: "\xCDndice_01_L"
+    400074: "\xCDndice_01_R"
+    400076: "\xCDndice_02_L"
+    400078: "\xCDndice_02_L_end"
+    400080: "\xCDndice_02_R"
+    400082: "\xCDndice_02_R_end"
+    4300000: Circle.046
+    4300002: Circle.012
+    4300004: Circle.007
+    7400000: Muerte
+    7400002: Coger_Abajo
+    7400004: Armature|Afirmacion_no vale
+    7400006: Armature|Afirmacion_no vale_
+    7400008: Armature|Andar
+    7400010: Armature|Circle.008Action
+    7400012: Armature|Circle.008Action.001
+    7400014: Armature|Circle.009Action
+    7400016: Armature|Circle.009Action.001
+    7400018: Armature|Circle.010Action
+    7400020: Armature|Circle.010Action.001
+    7400022: Armature|Circle.011Action
+    7400024: Armature|Circle.011Action.001
+    7400026: Armature|Circle.027Action
+    7400028: Armature|Circle.027Action.001
+    7400030: Armature|Circle.040Action
+    7400032: Armature|Circle.040Action.001
+    7400034: Armature|Circle.042Action
+    7400036: Armature|Circle.042Action.001
+    7400038: Armature|Circle.043Action
+    7400040: Armature|Circle.043Action.001
+    7400042: Armature|Coger_Abajo
+    7400044: Armature|Coger_Arriba
+    7400046: Armature|Coger_medio
+    7400048: Armature|Correr
+    7400050: Armature|Golpear
+    7400052: Armature|HemiAction
+    7400054: 'Armature|Idle '
+    7400056: Armature|Afirmacion
+    7400058: Armature|idle ejemplo
+    7400060: Armature|Muerte
+    7400062: Armature|Muerte_2
+    7400064: Armature|Muerte_2.001
+    7400066: Armature|Negacion
+    7400068: Armature|Negacion_2
+    7400070: Armature|Plane.002Action
+    7400072: "Armature|Recibir da\xF1o"
+    9500000: //RootNode
+    13700000: Circle.007
+    13700002: Circle.012
+    13700004: Circle.046
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuerpo
+    second: {fileID: 2100000, guid: 0a47db1c7de3e6340b88f82e899e2373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dedos
+    second: {fileID: 2100000, guid: 9f73771163b696c4492d3591e3e2c273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

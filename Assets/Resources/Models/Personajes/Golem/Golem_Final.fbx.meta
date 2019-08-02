@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 11c708574a5153f41a6c639d177d99de
+timeCreated: 1521306004
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anular_drch_2
+    100002: Anular_drch_3
+    100004: Anular_drch_3_end
+    100006: Anular_izq_2
+    100008: Anular_izq_3
+    100010: Anular_izq_3_end
+    100012: Armature
+    100014: Brazo_drch_1
+    100016: Brazo_drch_2
+    100018: Brazo_drch_ik
+    100020: Brazo_drch_ik_end
+    100022: Brazo_izq_1
+    100024: Brazo_izq_2
+    100026: brazo_izq_ik
+    100028: brazo_izq_ik_end
+    100030: Cabeza
+    100032: Cabeza_end
+    100034: Cadera
+    100036: Circle
+    100038: Circle.002
+    100040: Circle.006
+    100042: Circle.010
+    100044: Circle.011
+    100046: Circle.012
+    100048: Circle.015
+    100050: Corazon_drch_2
+    100052: Corazon_drch_3
+    100054: Corazon_drch_3_end
+    100056: Corazon_izq_2
+    100058: Corazon_izq_3
+    100060: Corazon_izq_3_end
+    100062: Falda_delt_drch
+    100064: Falda_delt_drch_end
+    100066: Falda_delt_izq
+    100068: Falda_delt_izq_end
+    100070: //RootNode
+    100072: Indice_drch_2
+    100074: Indice_drch_3
+    100076: Indice_drch_3_end
+    100078: Indice_izq_2
+    100080: Indice_izq_3
+    100082: Indice_izq_3_end
+    100084: "Me\xF1ique_drch_2"
+    100086: "Me\xF1ique_drch_3"
+    100088: "Me\xF1ique_drch_3_end"
+    100090: "Me\xF1ique_izq_2"
+    100092: "Me\xF1ique_izq_3"
+    100094: "Me\xF1ique_izq_3_end"
+    100096: "Mu\xF1eza_drch"
+    100098: "Mu\xF1eza_izq"
+    100100: Pecho
+    100102: Pie_drch
+    100104: Pie_drch_end
+    100106: Pie_drch_ik
+    100108: Pie_drch_ik_end
+    100110: pie_izq
+    100112: pie_izq_end
+    100114: pie_izq_ik
+    100116: pie_izq_ik_end
+    100118: Pierna_drch_1
+    100120: Pierna_drch_2
+    100122: Pierna_izq_1
+    100124: Pierna_izq_2
+    100126: Principal
+    100128: Pulgar_drch_1
+    100130: Pulgar_drch_2
+    100132: Pulgar_drch_2_end
+    100134: Pulgar_izq_1
+    100136: Pulgar_izq_2
+    100138: Pulgar_izq_2_end
+    100140: rotacion_codo_drch
+    100142: rotacion_codo_drch_end
+    100144: Rotacion_codo_izq
+    100146: Rotacion_codo_izq_end
+    100148: rotacion_pie_drch
+    100150: rotacion_pie_drch_end
+    100152: rotacion_pie_izq
+    100154: rotacion_pie_izq_end
+    400000: Anular_drch_2
+    400002: Anular_drch_3
+    400004: Anular_drch_3_end
+    400006: Anular_izq_2
+    400008: Anular_izq_3
+    400010: Anular_izq_3_end
+    400012: Armature
+    400014: Brazo_drch_1
+    400016: Brazo_drch_2
+    400018: Brazo_drch_ik
+    400020: Brazo_drch_ik_end
+    400022: Brazo_izq_1
+    400024: Brazo_izq_2
+    400026: brazo_izq_ik
+    400028: brazo_izq_ik_end
+    400030: Cabeza
+    400032: Cabeza_end
+    400034: Cadera
+    400036: Circle
+    400038: Circle.002
+    400040: Circle.006
+    400042: Circle.010
+    400044: Circle.011
+    400046: Circle.012
+    400048: Circle.015
+    400050: Corazon_drch_2
+    400052: Corazon_drch_3
+    400054: Corazon_drch_3_end
+    400056: Corazon_izq_2
+    400058: Corazon_izq_3
+    400060: Corazon_izq_3_end
+    400062: Falda_delt_drch
+    400064: Falda_delt_drch_end
+    400066: Falda_delt_izq
+    400068: Falda_delt_izq_end
+    400070: //RootNode
+    400072: Indice_drch_2
+    400074: Indice_drch_3
+    400076: Indice_drch_3_end
+    400078: Indice_izq_2
+    400080: Indice_izq_3
+    400082: Indice_izq_3_end
+    400084: "Me\xF1ique_drch_2"
+    400086: "Me\xF1ique_drch_3"
+    400088: "Me\xF1ique_drch_3_end"
+    400090: "Me\xF1ique_izq_2"
+    400092: "Me\xF1ique_izq_3"
+    400094: "Me\xF1ique_izq_3_end"
+    400096: "Mu\xF1eza_drch"
+    400098: "Mu\xF1eza_izq"
+    400100: Pecho
+    400102: Pie_drch
+    400104: Pie_drch_end
+    400106: Pie_drch_ik
+    400108: Pie_drch_ik_end
+    400110: pie_izq
+    400112: pie_izq_end
+    400114: pie_izq_ik
+    400116: pie_izq_ik_end
+    400118: Pierna_drch_1
+    400120: Pierna_drch_2
+    400122: Pierna_izq_1
+    400124: Pierna_izq_2
+    400126: Principal
+    400128: Pulgar_drch_1
+    400130: Pulgar_drch_2
+    400132: Pulgar_drch_2_end
+    400134: Pulgar_izq_1
+    400136: Pulgar_izq_2
+    400138: Pulgar_izq_2_end
+    400140: rotacion_codo_drch
+    400142: rotacion_codo_drch_end
+    400144: Rotacion_codo_izq
+    400146: Rotacion_codo_izq_end
+    400148: rotacion_pie_drch
+    400150: rotacion_pie_drch_end
+    400152: rotacion_pie_izq
+    400154: rotacion_pie_izq_end
+    4300000: Circle.012
+    4300002: Circle.015
+    4300004: Circle.011
+    4300006: Circle.010
+    4300008: Circle.006
+    4300010: Circle.002
+    4300012: Circle
+    7400000: Muerte
+    7400002: Armature|Afirmacion
+    7400004: Armature|Andar
+    7400006: Armature|Ataque
+    7400008: Armature|Correr
+    7400010: "Armature|Da\xF1o"
+    7400012: Armature|Empty.003Action
+    7400014: Armature|Hablar
+    7400016: Armature|Idle
+    7400018: Armature|Muerte
+    7400020: Armature|Negacion
+    9500000: //RootNode
+    13700000: Circle
+    13700002: Circle.002
+    13700004: Circle.006
+    13700006: Circle.010
+    13700008: Circle.011
+    13700010: Circle.012
+    13700012: Circle.015
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6e76abe260268c0499a43e37b65eeae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3ca3803aa6fa70c49bc1dcac5ecc2672, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

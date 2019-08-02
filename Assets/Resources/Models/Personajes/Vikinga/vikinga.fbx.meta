@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 2cb036073d7b25a4ca3d5cef5c55a581
+timeCreated: 1521308321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: brazo1_L
+    100002: brazo1_R
+    100004: brazo2_L
+    100006: brazo2_L.001
+    100008: brazo2_L.001_end
+    100010: brazo2_R
+    100012: brazo2_R.001
+    100014: brazo2_R.001_end
+    100016: cabeza
+    100018: cabeza_end
+    100020: Circle.000
+    100022: Circle.001
+    100024: Circle.003
+    100026: Circle.004
+    100028: columna_1
+    100030: columna_2
+    100032: cuello
+    100034: dedo_corazon_1_L
+    100036: dedo_corazon_1_R
+    100038: dedo_corazon_2_L
+    100040: dedo_corazon_2_L_end
+    100042: dedo_corazon_2_R
+    100044: dedo_corazon_2_R_end
+    100046: dedo_indice_1_L
+    100048: dedo_indice_1_R
+    100050: dedo_indice_2_L
+    100052: dedo_indice_2_L_end
+    100054: dedo_indice_2_R
+    100056: dedo_indice_2_R_end
+    100058: "dedo_me\xF1ique_1_L"
+    100060: "dedo_me\xF1ique_1_R"
+    100062: "dedo_me\xF1ique_2_L"
+    100064: "dedo_me\xF1ique_2_L_end"
+    100066: "dedo_me\xF1ique_2_R"
+    100068: "dedo_me\xF1ique_2_R_end"
+    100070: dedo_peseta_1_L
+    100072: dedo_peseta_1_R
+    100074: dedo_peseta_2_L
+    100076: dedo_peseta_2_L_end
+    100078: dedo_peseta_2_R
+    100080: dedo_peseta_2_R_end
+    100082: dedo_pulgar_1_L
+    100084: dedo_pulgar_1_R
+    100086: dedo_pulgar_2_L
+    100088: dedo_pulgar_2_L_end
+    100090: dedo_pulgar_2_R
+    100092: dedo_pulgar_2_R_end
+    100094: dedos_pie_L
+    100096: dedos_pie_L_end
+    100098: dedos_pie_R
+    100100: dedos_pie_R_end
+    100102: ik_pie_L
+    100104: ik_pie_L_end
+    100106: ik_pie_R
+    100108: ik_pie_R_end
+    100110: pie_L
+    100112: pie_R
+    100114: pierna1_L
+    100116: pierna1_R
+    100118: pierna2_L
+    100120: pierna2_R
+    100122: pol_rod_2
+    100124: pol_rod_2_end
+    100126: pole_codo_1
+    100128: pole_codo_1_end
+    100130: pole_codo_2
+    100132: pole_codo_2_end
+    100134: Pole_rod_1
+    100136: Pole_rod_1_end
+    100138: //RootNode
+    100140: vikinga
+    400000: brazo1_L
+    400002: brazo1_R
+    400004: brazo2_L
+    400006: brazo2_L.001
+    400008: brazo2_L.001_end
+    400010: brazo2_R
+    400012: brazo2_R.001
+    400014: brazo2_R.001_end
+    400016: cabeza
+    400018: cabeza_end
+    400020: Circle.000
+    400022: Circle.001
+    400024: Circle.003
+    400026: Circle.004
+    400028: columna_1
+    400030: columna_2
+    400032: cuello
+    400034: dedo_corazon_1_L
+    400036: dedo_corazon_1_R
+    400038: dedo_corazon_2_L
+    400040: dedo_corazon_2_L_end
+    400042: dedo_corazon_2_R
+    400044: dedo_corazon_2_R_end
+    400046: dedo_indice_1_L
+    400048: dedo_indice_1_R
+    400050: dedo_indice_2_L
+    400052: dedo_indice_2_L_end
+    400054: dedo_indice_2_R
+    400056: dedo_indice_2_R_end
+    400058: "dedo_me\xF1ique_1_L"
+    400060: "dedo_me\xF1ique_1_R"
+    400062: "dedo_me\xF1ique_2_L"
+    400064: "dedo_me\xF1ique_2_L_end"
+    400066: "dedo_me\xF1ique_2_R"
+    400068: "dedo_me\xF1ique_2_R_end"
+    400070: dedo_peseta_1_L
+    400072: dedo_peseta_1_R
+    400074: dedo_peseta_2_L
+    400076: dedo_peseta_2_L_end
+    400078: dedo_peseta_2_R
+    400080: dedo_peseta_2_R_end
+    400082: dedo_pulgar_1_L
+    400084: dedo_pulgar_1_R
+    400086: dedo_pulgar_2_L
+    400088: dedo_pulgar_2_L_end
+    400090: dedo_pulgar_2_R
+    400092: dedo_pulgar_2_R_end
+    400094: dedos_pie_L
+    400096: dedos_pie_L_end
+    400098: dedos_pie_R
+    400100: dedos_pie_R_end
+    400102: ik_pie_L
+    400104: ik_pie_L_end
+    400106: ik_pie_R
+    400108: ik_pie_R_end
+    400110: pie_L
+    400112: pie_R
+    400114: pierna1_L
+    400116: pierna1_R
+    400118: pierna2_L
+    400120: pierna2_R
+    400122: pol_rod_2
+    400124: pol_rod_2_end
+    400126: pole_codo_1
+    400128: pole_codo_1_end
+    400130: pole_codo_2
+    400132: pole_codo_2_end
+    400134: Pole_rod_1
+    400136: Pole_rod_1_end
+    400138: //RootNode
+    400140: vikinga
+    4300000: Circle.000
+    4300002: Circle.004
+    4300004: Circle.001
+    4300006: Circle.003
+    7400000: vikinga|afirmar
+    7400002: vikinga|andar(real)
+    7400004: vikinga|atacar
+    7400006: vikinga|coger(abajo)real
+    7400008: vikinga|coger(arriba)real
+    7400010: vikinga|coger(medio)real
+    7400012: vikinga|correr(real)
+    7400014: vikinga|hablar
+    7400016: vikinga|idl(real)
+    7400018: vikinga|muerte(real)
+    7400020: vikinga|negar
+    7400022: vikinga|PlaneAction
+    7400024: "vikinga|recibir da\xF1o"
+    9500000: //RootNode
+    13700000: Circle.000
+    13700002: Circle.001
+    13700004: Circle.003
+    13700006: Circle.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8bae5776b768dea4693c6c2c7d7ed1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: ae5ef369375ad0944846c6eed2321e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f8f44fafbcdef1344b11cea43af8617c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 8fb87cf13ee65ae47ab9a3c9a2869c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 48aa79fecfb8ecc4289784960d4e47b8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<English>
+		<string name="inventory_full">My inventory is full</string>
+
+		<string name="scanner_denied">Access Denied</string>
+		<string name="scanner_denied_2">I must find a way to get access</string>
+		<string name="scanner_granted">Access Granted</string>
+	</English>
+	<Spanish>
+		<string name="inventory_full">Mi inventario esta lleno</string>
+
+		<string name="scanner_denied">Acceso Denegado</string>
+		<string name="scanner_denied_2">Debo encontrar una forma de acceder</string>
+		<string name="scanner_granted">Acceso Concedido</string>
+
+		<string name="energy_wall">Esto parece peligroso</string>
+		<string name="protagonista_1frase">¡Mierda! No puedo abrir la puerta.</string>
+		<string name="protagonista_2frase">Necesito encontrar la llave de emergencia.</string>
+		<string name="protagonista_3frase">La tarjeta esta un poco derretida, nose si funcionará. </string>
+		<string name="protagonista_4frase">No es hora de comer un helado, tengo que salir de aqui. </string>
+		<string name="protagonista_5frase">No va a funcionar la tarjeta en este estado</string>
+		<string name="protagonista_6frase">Si meto la tarjeta 2 segundos en el congelador se endurecerá. </string>
+		<string name="protagonista_7frase">No puedo acceder a las escaleras ni al ascensor. </string>
+		<string name="protagonista_8frase">La puerta está cerrada, se escucha una especie de máquina de fondo. </string>
+		<string name="protagonista_9frase">La puerta está cerrada.</string>
+		<string name="protagonista_10frase">Esta chimenea es electrica, no creo que haya provocado el incendio del edificio.</string>
+		<string name="protagonista_11frase">Que cosa mas extraña, es un objeto cerrado y está hecha de porcelana dura.</string>
+		<string name="protagonista_12frase">¿Esto es un bronceador?</string>
+		<string name="protagonista_13frase">En este jarrón hay un poquito de agua, puedo quitar algo de fuego.</string>
+		<string name="protagonista_14frase">El ascensor no funciona.</string>
+		<string name="protagonista_15frase">No puedo bajar por ahi.</string>
+		<string name="protagonista_16frase">Con esto puedo romper el objeto extraño de porcelana.</string>
+		<string name="protagonista_17frase">¿Esto es yeso?</string>
+		<string name="protagonista_18frase">Dentro habia una llave.</string>
+		<string name="protagonista_19frase">Es uno de los materiales que resisten al fuego, me voy a untar un poco.</string>
+		<string name="protagonista_20frase">Es el panel de las salidas de emergencia, voy a activarlas.</string>
+		<string name="protagonista_21frase">¿Porque hay un arma en la salida de emergencia?</string>
+		<string name="protagonista_22frase">Se va a enterar ese hijo de puta...</string>
+		<string name="protagonista_23frase">¡Una explosión! Tengo que salir de aqui como sea.</string>
+		<string name="protagonista_24frase">Vaya, otra tarjeta.</string>
+				
+
+
+	</Spanish>
+</languages>

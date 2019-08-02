@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 3cb9c1b8c6c4c0544ad44582a4d31e75
+timeCreated: 1521308358
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Antebrazo_L
+    100002: Antebrazo_R
+    100004: Anular_01_L
+    100006: Anular_01_R
+    100008: Anular_02_L
+    100010: Anular_02_L_end
+    100012: Anular_02_R
+    100014: Anular_02_R_end
+    100016: Brazo_L
+    100018: Brazo_R
+    100020: Cabeza
+    100022: Cadera
+    100024: Central
+    100026: Circle.004
+    100028: Corazon_01_L
+    100030: Corazon_01_R
+    100032: Corazon_02_L
+    100034: Corazon_02_L_end
+    100036: Corazon_02_R
+    100038: Corazon_02_R_end
+    100040: Cuello
+    100042: Dedos pies_L
+    100044: Dedos pies_L_end
+    100046: Dedos pies_R
+    100048: Dedos pies_R_end
+    100050: Espinilla_L
+    100052: Espinilla_R
+    100054: Flequillo_01
+    100056: Flequillo_01_end
+    100058: Flequillo_02
+    100060: Flequillo_02_end
+    100062: Hombrera_L
+    100064: Hombrera_L_end
+    100066: Hombrera_R
+    100068: Hombrera_R_end
+    100070: IK_Brazo_L
+    100072: IK_Brazo_L_end
+    100074: IK_Brazo_R
+    100076: IK_Brazo_R_end
+    100078: IK_Pie_L
+    100080: IK_Pie_L_end
+    100082: IK_Pie_R
+    100084: IK_Pie_R_end
+    100086: Indice_01_L
+    100088: Indice_01_R
+    100090: Indice_02_L
+    100092: Indice_02_L_end
+    100094: Indice_02_R
+    100096: Indice_02_R_end
+    100098: Mano_L
+    100100: Mano_R
+    100102: "Me\xF1ique_01_L"
+    100104: "Me\xF1ique_01_R"
+    100106: "Me\xF1ique_02_L"
+    100108: "Me\xF1ique_02_L_end"
+    100110: "Me\xF1ique_02_R"
+    100112: "Me\xF1ique_02_R_end"
+    100114: Muslo_L
+    100116: Muslo_R
+    100118: Orientacion_Codo_L
+    100120: Orientacion_Codo_L_end
+    100122: Orientacion_Codo_R
+    100124: Orientacion_Codo_R_end
+    100126: Orientacion_Rodilla_L
+    100128: Orientacion_Rodilla_L_end
+    100130: Orientacion_Rodilla_R
+    100132: Orientacion_Rodilla_R_end
+    100134: Pecho
+    100136: Pers.Ppal
+    100138: //RootNode
+    100140: Pie_L
+    100142: Pie_R
+    100144: Pulgar_01_L
+    100146: Pulgar_01_R
+    100148: Pulgar_02_L
+    100150: Pulgar_02_L_end
+    100152: Pulgar_02_R
+    100154: Pulgar_02_R_end
+    100156: Tronco
+    400000: Antebrazo_L
+    400002: Antebrazo_R
+    400004: Anular_01_L
+    400006: Anular_01_R
+    400008: Anular_02_L
+    400010: Anular_02_L_end
+    400012: Anular_02_R
+    400014: Anular_02_R_end
+    400016: Brazo_L
+    400018: Brazo_R
+    400020: Cabeza
+    400022: Cadera
+    400024: Central
+    400026: Circle.004
+    400028: Corazon_01_L
+    400030: Corazon_01_R
+    400032: Corazon_02_L
+    400034: Corazon_02_L_end
+    400036: Corazon_02_R
+    400038: Corazon_02_R_end
+    400040: Cuello
+    400042: Dedos pies_L
+    400044: Dedos pies_L_end
+    400046: Dedos pies_R
+    400048: Dedos pies_R_end
+    400050: Espinilla_L
+    400052: Espinilla_R
+    400054: Flequillo_01
+    400056: Flequillo_01_end
+    400058: Flequillo_02
+    400060: Flequillo_02_end
+    400062: Hombrera_L
+    400064: Hombrera_L_end
+    400066: Hombrera_R
+    400068: Hombrera_R_end
+    400070: IK_Brazo_L
+    400072: IK_Brazo_L_end
+    400074: IK_Brazo_R
+    400076: IK_Brazo_R_end
+    400078: IK_Pie_L
+    400080: IK_Pie_L_end
+    400082: IK_Pie_R
+    400084: IK_Pie_R_end
+    400086: Indice_01_L
+    400088: Indice_01_R
+    400090: Indice_02_L
+    400092: Indice_02_L_end
+    400094: Indice_02_R
+    400096: Indice_02_R_end
+    400098: Mano_L
+    400100: Mano_R
+    400102: "Me\xF1ique_01_L"
+    400104: "Me\xF1ique_01_R"
+    400106: "Me\xF1ique_02_L"
+    400108: "Me\xF1ique_02_L_end"
+    400110: "Me\xF1ique_02_R"
+    400112: "Me\xF1ique_02_R_end"
+    400114: Muslo_L
+    400116: Muslo_R
+    400118: Orientacion_Codo_L
+    400120: Orientacion_Codo_L_end
+    400122: Orientacion_Codo_R
+    400124: Orientacion_Codo_R_end
+    400126: Orientacion_Rodilla_L
+    400128: Orientacion_Rodilla_L_end
+    400130: Orientacion_Rodilla_R
+    400132: Orientacion_Rodilla_R_end
+    400134: Pecho
+    400136: Pers.Ppal
+    400138: //RootNode
+    400140: Pie_L
+    400142: Pie_R
+    400144: Pulgar_01_L
+    400146: Pulgar_01_R
+    400148: Pulgar_02_L
+    400150: Pulgar_02_L_end
+    400152: Pulgar_02_R
+    400154: Pulgar_02_R_end
+    400156: Tronco
+    4300000: Circle.004
+    7400000: Pers.Ppal|Afirmacion
+    7400002: PlayerWALK
+    7400004: PlayerATTACK
+    7400006: PlayerLOWTAKE
+    7400008: PlayerHIGHTAKE
+    7400010: Pers.Ppal|Coger cosas_arriba.001
+    7400012: PlayerMIDTAKE
+    7400014: PlayerRUN
+    7400016: PlayerTALK
+    7400018: PlayerIDLE
+    7400020: Pers.Ppal|idle.001
+    7400022: PlayerDIE
+    7400024: PlayerNO
+    7400026: Pers.Ppal|Pers.PpalAction
+    7400028: Pers.Ppal|Pers.PpalAction.001
+    7400030: Pers.Ppal|PlaneAction
+    7400032: "Pers.Ppal|Recibir da\xF1o"
+    9500000: //RootNode
+    13700000: Circle.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 2ee51c601b37e084c805c5b62e5e978f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pers.Ppal|Afirmacion
+      takeName: Pers.Ppal|Afirmacion
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerWALK
+      takeName: Pers.Ppal|Andar
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerATTACK
+      takeName: Pers.Ppal|Ataque
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerLOWTAKE
+      takeName: Pers.Ppal|Coger cosas_abajo
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerHIGHTAKE
+      takeName: Pers.Ppal|Coger cosas_arriba
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pers.Ppal|Coger cosas_arriba.001
+      takeName: Pers.Ppal|Coger cosas_arriba.001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerMIDTAKE
+      takeName: Pers.Ppal|Coger cosas_medio
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerRUN
+      takeName: Pers.Ppal|Correr
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerTALK
+      takeName: Pers.Ppal|Hablar
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerIDLE
+      takeName: Pers.Ppal|idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pers.Ppal|idle.001
+      takeName: Pers.Ppal|idle.001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerDIE
+      takeName: Pers.Ppal|Muerte
+      firstFrame: 0
+      lastFrame: 111
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlayerNO
+      takeName: Pers.Ppal|Negacion
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pers.Ppal|Pers.PpalAction
+      takeName: Pers.Ppal|Pers.PpalAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pers.Ppal|Pers.PpalAction.001
+      takeName: Pers.Ppal|Pers.PpalAction.001
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pers.Ppal|PlaneAction
+      takeName: Pers.Ppal|PlaneAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Pers.Ppal|Recibir da\xF1o"
+      takeName: "Pers.Ppal|Recibir da\xF1o"
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

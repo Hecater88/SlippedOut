@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 1348667539155a840b59c05e5236b4ed
+timeCreated: 1521308320
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Armature.004
+    100010: Armature.005
+    100012: Armature.006
+    100014: Armature.007
+    100016: Armature.008
+    100018: Armature.009
+    100020: Armature.010
+    100022: BASE_cuerpo
+    100024: boca
+    100026: boca_end
+    100028: Bone
+    100030: Bone 1
+    100032: Bone 2
+    100034: Bone 3
+    100036: Bone 4
+    100038: Bone 5
+    100040: Bone 6
+    100042: Bone.001
+    100044: Bone.001 1
+    100046: Bone.001 2
+    100048: Bone.001 3
+    100050: Bone.001 4
+    100052: Bone.001 5
+    100054: Bone.001 6
+    100056: Bone.002
+    100058: Bone.002 1
+    100060: Bone.002 2
+    100062: Bone.002 3
+    100064: Bone.002 4
+    100066: Bone.002 5
+    100068: Bone.002 6
+    100070: Bone.002_end
+    100072: Bone.002_end 1
+    100074: Bone.002_end 2
+    100076: Bone.002_end 3
+    100078: Bone.002_end 4
+    100080: Bone.002_end 5
+    100082: Bone.002_end 6
+    100084: cabeza
+    100086: cabeza_end
+    100088: Camera
+    100090: columna1
+    100092: columna2
+    100094: cuello
+    100096: hoja_inferior1
+    100098: hoja_inferior1 1
+    100100: hoja_inferior1 2
+    100102: hoja_superior1
+    100104: hoja_superior1 1
+    100106: hoja_superior1 2
+    100108: hoja_superior1.001
+    100110: hoja_superior1.001 1
+    100112: hoja_superior1.001 2
+    100114: hoja_superior1.001_end
+    100116: hoja_superior1.001_end 1
+    100118: hoja_superior1.001_end 2
+    100120: Lamp
+    100122: Plane.000
+    100124: Plane.001
+    100126: Plane.002
+    100128: Plane.003
+    100130: Plane.004
+    100132: Plane.005
+    100134: Plane.006
+    100136: Plane.007
+    100138: Plane.008
+    100140: Plane.010
+    100142: Plane.018
+    100144: //RootNode
+    100146: tierra
+    100148: tierra_end
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Armature.004
+    400010: Armature.005
+    400012: Armature.006
+    400014: Armature.007
+    400016: Armature.008
+    400018: Armature.009
+    400020: Armature.010
+    400022: BASE_cuerpo
+    400024: boca
+    400026: boca_end
+    400028: Bone
+    400030: Bone 1
+    400032: Bone 2
+    400034: Bone 3
+    400036: Bone 4
+    400038: Bone 5
+    400040: Bone 6
+    400042: Bone.001
+    400044: Bone.001 1
+    400046: Bone.001 2
+    400048: Bone.001 3
+    400050: Bone.001 4
+    400052: Bone.001 5
+    400054: Bone.001 6
+    400056: Bone.002
+    400058: Bone.002 1
+    400060: Bone.002 2
+    400062: Bone.002 3
+    400064: Bone.002 4
+    400066: Bone.002 5
+    400068: Bone.002 6
+    400070: Bone.002_end
+    400072: Bone.002_end 1
+    400074: Bone.002_end 2
+    400076: Bone.002_end 3
+    400078: Bone.002_end 4
+    400080: Bone.002_end 5
+    400082: Bone.002_end 6
+    400084: cabeza
+    400086: cabeza_end
+    400088: Camera
+    400090: columna1
+    400092: columna2
+    400094: cuello
+    400096: hoja_inferior1
+    400098: hoja_inferior1 1
+    400100: hoja_inferior1 2
+    400102: hoja_superior1
+    400104: hoja_superior1 1
+    400106: hoja_superior1 2
+    400108: hoja_superior1.001
+    400110: hoja_superior1.001 1
+    400112: hoja_superior1.001 2
+    400114: hoja_superior1.001_end
+    400116: hoja_superior1.001_end 1
+    400118: hoja_superior1.001_end 2
+    400120: Lamp
+    400122: Plane.000
+    400124: Plane.001
+    400126: Plane.002
+    400128: Plane.003
+    400130: Plane.004
+    400132: Plane.005
+    400134: Plane.006
+    400136: Plane.007
+    400138: Plane.008
+    400140: Plane.010
+    400142: Plane.018
+    400144: //RootNode
+    400146: tierra
+    400148: tierra_end
+    2000000: Camera
+    4300000: Plane.006
+    4300002: Plane.003
+    4300004: Plane.007
+    4300006: Plane.005
+    4300008: Plane.004
+    4300010: Plane.001
+    4300012: Plane.010
+    4300014: Plane.002
+    4300016: Plane.000
+    4300018: Plane.008
+    4300020: Plane.018
+    7400000: Armature.010|planta1
+    7400002: Armature.010|planta3
+    7400004: Armature.010|planta4
+    7400006: Armature.010|planta5
+    7400008: Armature.010|planta7
+    7400010: Armature.009|planta1
+    7400012: Armature.009|planta3
+    7400014: Armature.009|planta4
+    7400016: Armature.009|planta5
+    7400018: Armature.009|planta7
+    7400020: Armature.008|planta1
+    7400022: Armature.008|planta3
+    7400024: Armature.008|planta4
+    7400026: Armature.008|planta5
+    7400028: Armature.008|planta7
+    7400030: Armature.007|planta1
+    7400032: Armature.007|planta3
+    7400034: Armature.007|planta4
+    7400036: Armature.007|planta5
+    7400038: Armature.007|planta7
+    7400040: Armature.006|planta1
+    7400042: Armature.006|planta3
+    7400044: Armature.006|planta4
+    7400046: Armature.006|planta5
+    7400048: Armature.006|planta7
+    7400050: Armature.005|planta1
+    7400052: Armature.005|planta3
+    7400054: Armature.005|planta4
+    7400056: Armature.005|planta5
+    7400058: Armature.005|planta7
+    7400060: Armature.004|planta1
+    7400062: Armature.004|planta3
+    7400064: Armature.004|planta4
+    7400066: Armature.004|planta5
+    7400068: Armature.004|planta7
+    7400070: Armature.003|planta 2
+    7400072: Armature.003|planta 6
+    7400074: Armature.003|planta8
+    7400076: Armature.002|planta 2
+    7400078: Armature.002|planta 6
+    7400080: Armature.002|planta8
+    7400082: Armature.001|planta 2
+    7400084: Armature.001|planta 6
+    7400086: Armature.001|planta8
+    7400088: Armature|atacar
+    7400090: Armature|IDL
+    7400092: Armature|morir
+    7400094: "Armature|recibir da\xF1o"
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Plane.000
+    13700002: Plane.001
+    13700004: Plane.002
+    13700006: Plane.003
+    13700008: Plane.004
+    13700010: Plane.005
+    13700012: Plane.006
+    13700014: Plane.007
+    13700016: Plane.008
+    13700018: Plane.010
+    13700020: Plane.018
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuerpo
+    second: {fileID: 2100000, guid: 1a04c9a94e7b75a4b83cc4e52fb116d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hoja1
+    second: {fileID: 2100000, guid: c1be343f6e3cd3f4b8c6d88c3ac03aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hoja2
+    second: {fileID: 2100000, guid: c1be343f6e3cd3f4b8c6d88c3ac03aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hoja3
+    second: {fileID: 2100000, guid: c1be343f6e3cd3f4b8c6d88c3ac03aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tierra
+    second: {fileID: 2100000, guid: 0d24acea2f021d14d9d876b709a36e82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1cdfa268fc26ebe469fc2721a2612e95
+timeCreated: 1521714155
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Firestarter
+  fontNames:
+  - Firestarter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

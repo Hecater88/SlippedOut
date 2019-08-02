@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 5b136a01073deab478291a49bb4246b1
+timeCreated: 1521308861
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brazo_01_L
+    100002: Brazo_01_L.001
+    100004: Brazo_01_L.002
+    100006: Brazo_01_L.002_end
+    100008: Brazo_01_R
+    100010: Brazo_01_R.001
+    100012: Brazo_01_R.002
+    100014: Brazo_01_R.002_end
+    100016: Circle.000
+    100018: Circle.006
+    100020: Circle.007
+    100022: Circle.008
+    100024: Circle.009
+    100026: Circle.010
+    100028: Circle.011
+    100030: Circle.012
+    100032: Circle.013
+    100034: Circle.014
+    100036: Circle.015
+    100038: Circle.016
+    100040: Circle.017
+    100042: Circle.018
+    100044: Circle.019
+    100046: Circle.020
+    100048: Circle.021
+    100050: Circle.022
+    100052: Cube
+    100054: Cube.001
+    100056: Cube.002
+    100058: Cube.003
+    100060: FINAL
+    100062: HUESO_ABAJO
+    100064: HUESO_ARRIBA
+    100066: Plane
+    100068: //RootNode
+    400000: Brazo_01_L
+    400002: Brazo_01_L.001
+    400004: Brazo_01_L.002
+    400006: Brazo_01_L.002_end
+    400008: Brazo_01_R
+    400010: Brazo_01_R.001
+    400012: Brazo_01_R.002
+    400014: Brazo_01_R.002_end
+    400016: Circle.000
+    400018: Circle.006
+    400020: Circle.007
+    400022: Circle.008
+    400024: Circle.009
+    400026: Circle.010
+    400028: Circle.011
+    400030: Circle.012
+    400032: Circle.013
+    400034: Circle.014
+    400036: Circle.015
+    400038: Circle.016
+    400040: Circle.017
+    400042: Circle.018
+    400044: Circle.019
+    400046: Circle.020
+    400048: Circle.021
+    400050: Circle.022
+    400052: Cube
+    400054: Cube.001
+    400056: Cube.002
+    400058: Cube.003
+    400060: FINAL
+    400062: HUESO_ABAJO
+    400064: HUESO_ARRIBA
+    400066: Plane
+    400068: //RootNode
+    2300000: Circle.000
+    2300002: Circle.006
+    2300004: Circle.007
+    2300006: Circle.008
+    2300008: Circle.009
+    2300010: Circle.010
+    2300012: Circle.011
+    2300014: Circle.012
+    2300016: Circle.013
+    2300018: Circle.014
+    2300020: Circle.015
+    2300022: Circle.016
+    2300024: Circle.017
+    2300026: Circle.018
+    2300028: Circle.019
+    2300030: Circle.020
+    2300032: Circle.021
+    2300034: Circle.022
+    2300036: Cube
+    2300038: Cube.001
+    2300040: Cube.002
+    2300042: Cube.003
+    2300044: Plane
+    3300000: Circle.000
+    3300002: Circle.006
+    3300004: Circle.007
+    3300006: Circle.008
+    3300008: Circle.009
+    3300010: Circle.010
+    3300012: Circle.011
+    3300014: Circle.012
+    3300016: Circle.013
+    3300018: Circle.014
+    3300020: Circle.015
+    3300022: Circle.016
+    3300024: Circle.017
+    3300026: Circle.018
+    3300028: Circle.019
+    3300030: Circle.020
+    3300032: Circle.021
+    3300034: Circle.022
+    3300036: Cube
+    3300038: Cube.001
+    3300040: Cube.002
+    3300042: Cube.003
+    3300044: Plane
+    4300000: Cube.002
+    4300002: Cube.001
+    4300004: Circle.012
+    4300006: Circle.016
+    4300008: Circle.014
+    4300010: Plane
+    4300012: Circle.015
+    4300014: Circle.000
+    4300016: Circle.018
+    4300018: Circle.008
+    4300020: Circle.021
+    4300022: Circle.020
+    4300024: Circle.019
+    4300026: Circle.022
+    4300028: Cube.003
+    4300030: Circle.006
+    4300032: Circle.017
+    4300034: Circle.009
+    4300036: Circle.013
+    4300038: Circle.011
+    4300040: Circle.010
+    4300042: Circle.007
+    4300044: Cube
+    7400000: Armature|Afirmar
+    7400002: Armature|Atacar
+    7400004: Armature|Coger abajo
+    7400006: Armature|Coger arriba
+    7400008: Armature|Coger nomal
+    7400010: Armature|Idle
+    7400012: Armature|Idle vuelta
+    7400014: Armature|Morir
+    7400016: "Armature|Recibir da\xF1o"
+    7400018: Circle.012|Morir
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8bae5776b768dea4693c6c2c7d7ed1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: ae5ef369375ad0944846c6eed2321e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2856edf10e0c66a45b73f9c375906ed2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

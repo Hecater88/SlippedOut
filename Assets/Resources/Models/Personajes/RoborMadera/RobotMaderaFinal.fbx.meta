@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 7634ed5907410454fa2f0a8e30865a13
+timeCreated: 1521307368
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BaseCorrea
+    100004: Brazo_L
+    100006: Brazo_R
+    100008: Cabeza
+    100010: Cabeza_end
+    100012: Cilintrorotar
+    100014: Cintura
+    100016: Dedo_1_L
+    100018: Dedo_1_L_end
+    100020: Dedo_1_R
+    100022: Dedo_1_R_end
+    100024: Dedo_2_L
+    100026: Dedo_2_L_end
+    100028: Dedo_2_R
+    100030: Dedo_2_R_end
+    100032: Dedo_3_L
+    100034: Dedo_3_L_end
+    100036: Dedo_3_R
+    100038: Dedo_3_R_end
+    100040: Eje_Principal_LR
+    100042: Mano_L
+    100044: Mano_R
+    100046: Muneca_L
+    100048: Muneca_R
+    100050: Pecho
+    100052: Pulgar_L
+    100054: Pulgar_L_end
+    100056: Pulgar_R
+    100058: Pulgar_R_end
+    100060: //RootNode
+    100062: Sphere
+    100064: Tuercamovilaca
+    100066: Tuercamovilaca_end
+    400000: Armature
+    400002: BaseCorrea
+    400004: Brazo_L
+    400006: Brazo_R
+    400008: Cabeza
+    400010: Cabeza_end
+    400012: Cilintrorotar
+    400014: Cintura
+    400016: Dedo_1_L
+    400018: Dedo_1_L_end
+    400020: Dedo_1_R
+    400022: Dedo_1_R_end
+    400024: Dedo_2_L
+    400026: Dedo_2_L_end
+    400028: Dedo_2_R
+    400030: Dedo_2_R_end
+    400032: Dedo_3_L
+    400034: Dedo_3_L_end
+    400036: Dedo_3_R
+    400038: Dedo_3_R_end
+    400040: Eje_Principal_LR
+    400042: Mano_L
+    400044: Mano_R
+    400046: Muneca_L
+    400048: Muneca_R
+    400050: Pecho
+    400052: Pulgar_L
+    400054: Pulgar_L_end
+    400056: Pulgar_R
+    400058: Pulgar_R_end
+    400060: //RootNode
+    400062: Sphere
+    400064: Tuercamovilaca
+    400066: Tuercamovilaca_end
+    4300000: Sphere
+    7400000: Armature|AndarFin
+    7400002: Armature|AndarKeep
+    7400004: Armature|AndarStart
+    7400006: Armature|CoberAlto
+    7400008: Armature|CogerBajo
+    7400010: Armature|Cogermedio
+    7400012: Armature|CorrerFin
+    7400014: Armature|CorrerKeep
+    7400016: Armature|CorrerStart
+    7400018: Armature|Gest.Afirm
+    7400020: Armature|Gest.Neg
+    7400022: Armature|Idle
+    7400024: Armature|TakingDmg
+    9500000: //RootNode
+    13700000: Sphere
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 7d691a680f18cc944a5edfdb132d76c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

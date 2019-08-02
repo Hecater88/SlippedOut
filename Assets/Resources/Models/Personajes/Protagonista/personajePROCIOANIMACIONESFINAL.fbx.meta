@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 567cf3add08e60c4592a9d43f0e64b52
+timeCreated: 1521308145
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone.003
+    100002: Bone.004
+    100004: Bone.004_end
+    100006: brazo_01_L
+    100008: brazo_01_R
+    100010: brazo_02_L
+    100012: brazo_02_L.003
+    100014: brazo_02_L.004
+    100016: brazo_02_L.005
+    100018: brazo_02_L.006
+    100020: brazo_02_L.007
+    100022: brazo_02_L.008
+    100024: brazo_02_L.008_end
+    100026: brazo_02_L.009
+    100028: brazo_02_L.010
+    100030: brazo_02_L.010_end
+    100032: brazo_02_L.011
+    100034: brazo_02_L.012
+    100036: brazo_02_L.012_end
+    100038: brazo_02_L.013
+    100040: brazo_02_L.014
+    100042: brazo_02_L.014_end
+    100044: brazo_02_L.015
+    100046: brazo_02_L.016
+    100048: brazo_02_L.016_end
+    100050: brazo_02_R
+    100052: brazo_02_R.001
+    100054: brazo_02_R.003
+    100056: brazo_02_R.004
+    100058: brazo_02_R.005
+    100060: brazo_02_R.006
+    100062: brazo_02_R.007
+    100064: brazo_02_R.008
+    100066: brazo_02_R.008_end
+    100068: brazo_02_R.009
+    100070: brazo_02_R.010
+    100072: brazo_02_R.010_end
+    100074: brazo_02_R.011
+    100076: brazo_02_R.012
+    100078: brazo_02_R.012_end
+    100080: brazo_02_R.013
+    100082: brazo_02_R.014
+    100084: brazo_02_R.014_end
+    100086: brazo_02_R.015
+    100088: brazo_02_R.016
+    100090: brazo_02_R.016_end
+    100092: brazo_ik_L
+    100094: brazo_ik_L_end
+    100096: brazo_ik_R
+    100098: brazo_ik_R_end
+    100100: cadera
+    100102: columna_01
+    100104: columna_02
+    100106: ESQUELETO
+    100108: Hemi
+    100110: mano_01_L
+    100112: orientacion_codo_L
+    100114: orientacion_codo_L_end
+    100116: orientacion_codo_R
+    100118: orientacion_codo_R_end
+    100120: orientacion_rodilla_L
+    100122: orientacion_rodilla_L_end
+    100124: orientacion_rodilla_R
+    100126: orientacion_rodilla_R_end
+    100128: Personaje
+    100130: //RootNode
+    100132: pie_ik_L
+    100134: pie_ik_L_end
+    100136: pie_ik_R
+    100138: pie_ik_R_end
+    100140: pierna_01_L
+    100142: pierna_01_L.001
+    100144: pierna_01_L.002
+    100146: pierna_01_L.003
+    100148: pierna_01_L.003_end
+    100150: pierna_01_R
+    100152: pierna_01_R.001
+    100154: pierna_01_R.002
+    100156: pierna_01_R.003
+    100158: pierna_01_R.003_end
+    400000: Bone.003
+    400002: Bone.004
+    400004: Bone.004_end
+    400006: brazo_01_L
+    400008: brazo_01_R
+    400010: brazo_02_L
+    400012: brazo_02_L.003
+    400014: brazo_02_L.004
+    400016: brazo_02_L.005
+    400018: brazo_02_L.006
+    400020: brazo_02_L.007
+    400022: brazo_02_L.008
+    400024: brazo_02_L.008_end
+    400026: brazo_02_L.009
+    400028: brazo_02_L.010
+    400030: brazo_02_L.010_end
+    400032: brazo_02_L.011
+    400034: brazo_02_L.012
+    400036: brazo_02_L.012_end
+    400038: brazo_02_L.013
+    400040: brazo_02_L.014
+    400042: brazo_02_L.014_end
+    400044: brazo_02_L.015
+    400046: brazo_02_L.016
+    400048: brazo_02_L.016_end
+    400050: brazo_02_R
+    400052: brazo_02_R.001
+    400054: brazo_02_R.003
+    400056: brazo_02_R.004
+    400058: brazo_02_R.005
+    400060: brazo_02_R.006
+    400062: brazo_02_R.007
+    400064: brazo_02_R.008
+    400066: brazo_02_R.008_end
+    400068: brazo_02_R.009
+    400070: brazo_02_R.010
+    400072: brazo_02_R.010_end
+    400074: brazo_02_R.011
+    400076: brazo_02_R.012
+    400078: brazo_02_R.012_end
+    400080: brazo_02_R.013
+    400082: brazo_02_R.014
+    400084: brazo_02_R.014_end
+    400086: brazo_02_R.015
+    400088: brazo_02_R.016
+    400090: brazo_02_R.016_end
+    400092: brazo_ik_L
+    400094: brazo_ik_L_end
+    400096: brazo_ik_R
+    400098: brazo_ik_R_end
+    400100: cadera
+    400102: columna_01
+    400104: columna_02
+    400106: ESQUELETO
+    400108: Hemi
+    400110: mano_01_L
+    400112: orientacion_codo_L
+    400114: orientacion_codo_L_end
+    400116: orientacion_codo_R
+    400118: orientacion_codo_R_end
+    400120: orientacion_rodilla_L
+    400122: orientacion_rodilla_L_end
+    400124: orientacion_rodilla_R
+    400126: orientacion_rodilla_R_end
+    400128: Personaje
+    400130: //RootNode
+    400132: pie_ik_L
+    400134: pie_ik_L_end
+    400136: pie_ik_R
+    400138: pie_ik_R_end
+    400140: pierna_01_L
+    400142: pierna_01_L.001
+    400144: pierna_01_L.002
+    400146: pierna_01_L.003
+    400148: pierna_01_L.003_end
+    400150: pierna_01_R
+    400152: pierna_01_R.001
+    400154: pierna_01_R.002
+    400156: pierna_01_R.003
+    400158: pierna_01_R.003_end
+    4300000: Personaje
+    7400000: idle
+    7400002: Hemi|Run
+    7400004: Hemi|Walk
+    7400006: ESQUELETO|Afirmar
+    7400008: ESQUELETO|ArmatureAction
+    7400010: ESQUELETO|Atacar
+    7400012: ESQUELETO|Coger abajo
+    7400014: ESQUELETO|Coger arriba
+    7400016: ESQUELETO|Coger normal
+    7400018: ESQUELETO|Hablar
+    7400020: ESQUELETO|idle
+    7400022: ESQUELETO|KILL
+    7400024: ESQUELETO|Negar
+    7400026: "ESQUELETO|Recibir da\xF1o"
+    7400028: ESQUELETO|Run
+    7400030: ESQUELETO|Walk
+    7400032: ESQUELETO|Walk.001
+    9500000: //RootNode
+    10800000: Hemi
+    13700000: Personaje
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c8687276e54b2664886c911dd7b2290c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

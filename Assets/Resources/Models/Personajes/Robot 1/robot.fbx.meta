@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: f118d360b0995134d975fe97221c8930
+timeCreated: 1521308937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: anteBRAZO_L
+    100002: anteBRAZO_R
+    100004: Armature
+    100006: CABEZA
+    100008: CADERA
+    100010: Circle
+    100012: DEDO1_L
+    100014: DEDO1_L1
+    100016: DEDO1_L1_end
+    100018: dedo1_R
+    100020: dedo1_r2
+    100022: dedo1_r2_end
+    100024: DEDO2_L
+    100026: DEDO2_L2
+    100028: DEDO2_L2_end
+    100030: dedo2_r2
+    100032: dedo2_r2_end
+    100034: DEDO3_L
+    100036: DEDO3_L1
+    100038: DEDO3_L1_end
+    100040: dedo3_r
+    100042: dedo3_r2
+    100044: dedo3_r2_end
+    100046: dero2_r
+    100048: Empty
+    100050: oreja_L
+    100052: oreja_L_end
+    100054: oreja_r
+    100056: oreja_r_end
+    100058: padre
+    100060: //RootNode
+    100062: RUEDA
+    100064: RUEDA_end
+    100066: TRONCO
+    400000: anteBRAZO_L
+    400002: anteBRAZO_R
+    400004: Armature
+    400006: CABEZA
+    400008: CADERA
+    400010: Circle
+    400012: DEDO1_L
+    400014: DEDO1_L1
+    400016: DEDO1_L1_end
+    400018: dedo1_R
+    400020: dedo1_r2
+    400022: dedo1_r2_end
+    400024: DEDO2_L
+    400026: DEDO2_L2
+    400028: DEDO2_L2_end
+    400030: dedo2_r2
+    400032: dedo2_r2_end
+    400034: DEDO3_L
+    400036: DEDO3_L1
+    400038: DEDO3_L1_end
+    400040: dedo3_r
+    400042: dedo3_r2
+    400044: dedo3_r2_end
+    400046: dero2_r
+    400048: Empty
+    400050: oreja_L
+    400052: oreja_L_end
+    400054: oreja_r
+    400056: oreja_r_end
+    400058: padre
+    400060: //RootNode
+    400062: RUEDA
+    400064: RUEDA_end
+    400066: TRONCO
+    2300000: Circle
+    3300000: Circle
+    4300000: Circle
+    7400000: Armature|cogerdown
+    7400002: Armature|cogermid
+    7400004: Circle|idle
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 28ba019b9e923fc4ca5ceccb4e13e573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8bae5776b768dea4693c6c2c7d7ed1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: ae5ef369375ad0944846c6eed2321e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f8f44fafbcdef1344b11cea43af8617c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

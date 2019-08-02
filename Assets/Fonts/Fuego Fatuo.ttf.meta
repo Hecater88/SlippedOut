@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 985816d0edb16cf47a89839dbc7e2328
+timeCreated: 1521714156
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fuego Fatuo
+  fontNames:
+  - Fuego Fatuo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
